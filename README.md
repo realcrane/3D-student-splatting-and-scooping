@@ -1,6 +1,6 @@
 # 3D Student Splatting and Scooping
 
-Official Implementation of "3D Student Splatting and Scooping", an **Oral** paper in **CVPR 2025**.
+Official Implementation of "3D Student Splatting and Scooping", a paper recevied the **CVPR 2025 Best Paper honorable mention** award.
 
 [Jialin Zhu](https://jialin.info)<sup>1*</sup>,
 [Jiangbei Yue](https://scholar.google.com/citations?user=hWnY-fMAAAAJ&hl=en)<sup>2</sup>
